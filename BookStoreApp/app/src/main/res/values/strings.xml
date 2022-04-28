@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">BookStoreApp</string>
+
+    <string name="content_description">image</string>
+    <string name="title_login">LOGIN</string>
+    <string name="et_hint_email_id">Email</string>
+    <string name="et_hint_password">Password</string>
+    <string name="lbl_forgot_password">Lupa Password?</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="don_t_have_an_account">Tidak Punya Akun?</string>
+    <string name="register"><u>Register</u></string>
+
+    <string name="create_an_account">MEMBUAT AKUN</string>
+
+    <string name="hint_last_name">Nama Depan</string>
+    <string name="hint_first_name">Nama Belakang</string>
+    <string name="et_hint_confirm_password">Confirm Password</string>
+
+    <string name="i_agree_to_the_terms_and_condition">I Agree To The <u> Terms &amp; Condition </u></string>
+    <string name="btn_lbl_register">Register</string>
+
+    <string name="already_have_an_account">Sudah punya akun?</string>
+    <string name="login"><u>Login</u></string>
+
+    <string name="err_msg_enter_first_name">Tolong masukan nama depan anda.</string>
+    <string name="err_msg_enter_last_name">Tolong masukan nama belakang anda.</string>
+    <string name="err_msg_enter_email">Tolong masukan email anda.</string>
+    <string name="err_msg_enter_password">Tolong masukan password anda.</string>
+    <string name="err_msg_enter_confirm_password">Tolong masukan Konfirmasi  password anda.</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">Password and confirm password does not match.</string>
+    <string name="err_msg_agree_terms_and_condition">Please agree terms and condition.</string>
+
+    <string name="please_wait">Tolong Tunggu&#8230;</string>
+
+    <string name="title_forgot_password">LUPA KATA SANDI?</string>
+    <string name="forgot_password_title_description">Masukkan nama pengguna dan alamat email Anda, kami akan mengirimi Anda email untuk mengatur ulang kata sandi Anda</string>
+    <string name="btn_lbl_submit">Confirm</string>
+
+    <string name="email_sent_success">Email sukses di kirim untuk mengganti password!</string>
+
+    <string name="register_success">Anda berhasil terdaftar.</string>
+
+    <string name="title_complete_profile">COMPLETE PROFILE</string>
+    <string name="et_hint_mobile_number">Nomor Ponsel</string>
+
+    <string name="rb_lbl_male">Pria</string>
+    <string name="rb_lbl_female">Wanita</string>
+    <string name="btn_lbl_save">Simpan</string>
+
+    <string name="read_storage_permission_denied">Ups, Anda baru saja menolak izin untuk penyimpanan. Anda juga dapat mengizinkannya dari pengaturan.</string>
+    <string name="image_selection_failed">Pemilihan gambar Gagal!</string>
+
+    <string name="err_msg_enter_mobile_number">Tolong masukan noor telepon anda.</string>
+
+    <string name="msg_profile_update_success">Anda Berhasil memperbarui profil.</string>
+
+
+    <string name="title_activity_dashboard">MainActivity</string>
+
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_products">Products</string>
+    <string name="title_orders">Orders</string>
+
+    <string name="please_click_back_again_to_exit">Silakan klik kembali untuk keluar.</string>
+
+    <string name="action_settings">Setting</string>
+
+    <string name="title_settings">SETTING</string>
+    <string name="lbl_edit">Edit</string>
+    <string name="lbl_addresses">Alamat</string>
+    <string name="btn_lbl_logout">Keluar</string>
+
+    <string name="title_edit_profile">EDIT PROFIL</string>
+
+    <string name="action_add_product">Tambah Product</string>
+
+    <string name="title_add_product">ADD PRODUCT</string>
+    <string name="et_hint_product_title">Nama Product</string>
+    <string name="et_hint_product_price">Harga Product (Rp)</string>
+    <string name="et_hint_product_description">Deskripsi Product</string>
+    <string name="et_hint_product_quantity">Jumlah Product</string>
+
+    <string name="err_msg_select_product_image">Tolong masukan foto product anda.</string>
+    <string name="err_msg_enter_product_title">Tolong masukan nama product anda.</string>
+    <string name="err_msg_enter_product_price">Tolong masukan harga product anda.</string>
+    <string name="err_msg_enter_product_description">Tolong masukan deskripsi product anda.</string>
+    <string name="err_msg_enter_product_quantity">Tolong masukan jumlah product anda.</string>
+
+    <string name="product_uploaded_success_message">Anda berhasil memperbarui product.</string>
+    <string name="no_products_added_yet">Tidak ada product yang di tambahkan!</string>
+    <string name="no_dashboard_item_found">Item tidak ditemukan!</string>
+
+    <string name="product_delete_success_message">Kamu berhasil menghapus product.</string>
+    <string name="delete_dialog_title">Hapus</string>
+    <string name="delete_dialog_message">Apakah kamu yakin menghapus  product anda?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+
+    <string name="title_product_details">PRODUCT DETAILS</string>
+    <string name="lbl_product_description">Deskripsi Product</string>
+    <string name="lbl_product_details_stock_quantity">Jumlah Stock</string>
+
+    <string name="btn_lbl_add_to_cart">ADD TO CART</string>
+    <string name="success_message_item_added_to_cart">Product is added to your cart.</string>
+    <string name="btn_lbl_go_to_cart">GO TO CART</string>
+
+    <string name="title_my_cart">MY CART</string>
+    <string name="no_cart_item_found">Tidak ada item dalam keranjang!</string>
+    <string name="lbl_subtotal">Subtotal</string>
+    <string name="lbl_shipping_charge">Biaya Pengiriman</string>
+    <string name="lbl_total_amount">Jumlah Total</string>
+    <string name="btn_lbl_checkout">Checkout</string>
+    <string name="action_cart">Keranjang Saya</string>
+
+    <string name="lbl_out_of_stock">KEHABISAN STOK</string>
+    <string name="msg_item_removed_successfully">Item berhasil dihapus.</string>
+
+    <string name="msg_for_available_stock">Available stock is %1$s!. You can not add more than stock quantity.</string>
+
+    <string name="title_address_list">DAFTAR ALAMAT</string>
+    <string name="no_address_found">Tidak Ada Alamat yang Ditemukan!</string>
+    <string name="lbL_add_address">Tambahkan Alamat</string>
+
+    <string name="title_add_address">TAMBAHKAN ALAMAT</string>
+    <string name="hint_full_name">Nama Lengkap</string>
+    <string name="hint_phone_number">Nomor Telepon</string>
+    <string name="hint_address">Alamat</string>
+    <string name="hint_zip_code">Kode Pos</string>
+    <string name="hint_additional_note">Catatan Tambahan</string>
+    <string name="hint_other_details">Detail Lainnya</string>
+    <string name="lbl_home">Rumah</string>
+    <string name="lbl_office">Kantor</string>
+    <string name="lbl_other">Lain-lain</string>
+
+
+    <string name="err_msg_please_enter_full_name">Tolong masukan nama lengkap anda.</string>
+    <string name="err_msg_please_enter_phone_number">Tolong masukan nomor telepon anda.</string>
+    <string name="err_msg_please_enter_address">Tolong masukan alamat anda.</string>
+    <string name="err_msg_please_enter_zip_code">Tolong masukan kode pos anda.</string>
+    <string name="err_msg_please_enter_other_details">Tolong masukan detail yang lain.</string>
+
+    <string name="err_your_address_added_successfully">Alamat yang anda tambahkan berhasil.</string>
+
+    <string name="title_edit_address">EDIT ALAMAT</string>
+    <string name="btn_lbl_update">UPDATE</string>
+    <string name="msg_your_address_updated_successfully">Alamat kamu berhasil diperbarui.</string>
+
+    <string name="err_your_address_deleted_successfully">Alamat Anda berhasil dihapus.</string>
+    <string name="title_select_address">Pilih Alamat</string>
+
+    <string name="title_checkout">CHECKOUT</string>
+    <string name="checkout_lbl_product_items">Item Product</string>
+    <string name="checkout_lbl_selected_address">Pilih Alamat</string>
+    <string name="checkout_lbl_items_receipt">Items Receipt</string>
+    <string name="lbl_payment_mode">Mode Pembayaran</string>
+    <string name="lbl_cash_on_delivery">Bayar di tempat</string>
+    <string name="btn_lbl_place_order">Pesan SEKARANG</string>
+
+    <string name="no_orders_placed_yet">Belum ada pesanan yang dilakukan!</string>
+
+    <string name="title_my_order_details">DETAIL PESANAN SAYA</string>
+    <string name="order_details_lbl">Detail Pesanan</string>
+    <string name="order_details_lbl_order_id">ID Pesanan</string>
+    <string name="order_details_lbl_order_date">Tanggal Pesanan</string>
+    <string name="order_details_lbl_order_status">Order Status</string>
+    <string name="order_status_pending">Pending</string>
+    <string name="order_details_lbl_shipping_address">Alamat Pengiriman</string>
+
+    <string name="order_status_in_process">Dalam Proses</string>
+    <string name="order_status_delivered">Dikirimkan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="title_sold_products">SOLD PRODUCTS</string>
+    <string name="no_products_sold_out_yet">Belum ada pesanan yang dilakukan!</string>
+
+    <string name="title_sold_product_details">DETAIL PRODUK YANG DIJUAL</string>
+</resources>
